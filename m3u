@@ -1301,12 +1301,18 @@ http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/4828
 http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/4853
 #EXTINF:-1 tvg-id="" tvg-name="BR: ESPN" tvg-logo="https://docdog.top/logo/countries/brazil/espn.png" group-title="LAME | BRAZIL VIP",BR: ESPN
 http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/4854
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN" tvg-logo="https://docdog.top/logo/countries/brazil/espn.png" group-title="LAME | BRAZIL VIP",BR: ESPN
+http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/4854
 #EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 2" tvg-logo="https://docdog.top/logo/countries/brazil/espn2.png" group-title="LAME | BRAZIL VIP",BR: ESPN 2
 http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/4855
-#EXTINF:-1 tvg-id="" tvg-name="BR: FOX LIFE" tvg-logo="https://docdog.top/logo/countries/brazil/foxlife.png" group-title="LAME | BRAZIL VIP",BR: FOX LIFE
-http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/4858
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 2" tvg-logo="https://docdog.top/logo/countries/brazil/espn2.png" group-title="LAME | BRAZIL VIP",BR: ESPN 2
+http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/4855
 #EXTINF:-1 tvg-id="" tvg-name="BR: ESPN4" tvg-logo="" group-title="LAME | BRAZIL VIP",BR: ESPN4
 http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/4859
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN4" tvg-logo="" group-title="LAME | BRAZIL VIP",BR: ESPN4
+http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/4859
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX LIFE" tvg-logo="https://docdog.top/logo/countries/brazil/foxlife.png" group-title="LAME | BRAZIL VIP",BR: FOX LIFE
+http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/4858
 #EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS 2" tvg-logo="https://docdog.top/logo/countries/brazil/foxsports3.png" group-title="LAME | BRAZIL VIP",BR: FOX SPORTS 2
 http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/4860
 #EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 1" tvg-logo="https://docdog.top/logo/countries/brazil/sportv1.png" group-title="LAME | BRAZIL VIP",BR: SPORTV 1
@@ -1343,6 +1349,8 @@ http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/134177
 http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/134178
 #EXTINF:-1 tvg-id="ESPN" tvg-name="PE: ESPN VIP" tvg-logo="" group-title="LAME | PERU VIP",PE: ESPN VIP
 http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/134207
+#EXTINF:-1 tvg-id="ESPN" tvg-name="PE: ESPN VIP" tvg-logo="" group-title="LAME | PERU VIP",PE: ESPN VIP
+http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/134207
 #EXTINF:-1 tvg-id="" tvg-name="PE: GOL PERU VIP" tvg-logo="" group-title="LAME | PERU VIP",PE: GOL PERU VIP
 http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/134208
 #EXTINF:-1 tvg-id="" tvg-name="PE: MOVISTAR DEPORTES HD VIP" tvg-logo="https://docdog.top/logo/countries/peru/movistardeportes.png" group-title="LAME | PERU VIP",PE: MOVISTAR DEPORTES HD VIP
@@ -1363,30 +1371,30 @@ http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/4969
 http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/4970
 #EXTINF:-1 tvg-id="" tvg-name="LA: EC_GOLTV ECUADOR" tvg-logo="https://docdog.top/logo/countries/latino/EC_GOLTVECUADOR.jpg" group-title="LAME | LATINO VIP",LA: EC_GOLTV ECUADOR
 http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/4971
-#EXTINF:-1 tvg-id="" tvg-name="LA: GALAVISION" tvg-logo="https://docdog.top/logo/countries/latino/galavision.png" group-title="LAME | LATINO VIP",LA: GALAVISION
-http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/5022
 #EXTINF:-1 tvg-id="" tvg-name="LA: TNT" tvg-logo="https://docdog.top/logo/countries/latino/tnt.png" group-title="LAME | LATINO VIP",LA: TNT
 http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/5041
-#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN 3" tvg-logo="https://docdog.top/logo/countries/latino/espn3.png" group-title="LAME | LATINO VIP",LA: ESPN 3
-http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/5058
-#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN 2" tvg-logo="https://docdog.top/logo/countries/latino/espn2.png" group-title="LAME | LATINO VIP",LA: ESPN 2
-http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/5059
+#EXTINF:-1 tvg-id="" tvg-name="LA: UNIVISION" tvg-logo="https://docdog.top/logo/countries/latino/univision.png" group-title="LAME | LATINO VIP",LA: UNIVISION
+http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/5092
 #EXTINF:-1 tvg-id="" tvg-name="LA: ESPN" tvg-logo="https://docdog.top/logo/countries/latino/espn.png" group-title="LAME | LATINO VIP",LA: ESPN
 http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/5060
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN 2" tvg-logo="https://docdog.top/logo/countries/latino/espn2.png" group-title="LAME | LATINO VIP",LA: ESPN 2
+http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/5059
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN 3" tvg-logo="https://docdog.top/logo/countries/latino/espn3.png" group-title="LAME | LATINO VIP",LA: ESPN 3
+http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/5058
 #EXTINF:-1 tvg-id="" tvg-name="LA: TUDN" tvg-logo="https://docdog.top/logo/countries/latino/tudn.png" group-title="LAME | LATINO VIP",LA: TUDN
 http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/5097
 #EXTINF:-1 tvg-id="" tvg-name="LA: TUDN" tvg-logo="https://docdog.top/logo/countries/latino/tudn.png" group-title="LAME | LATINO VIP",LA: TUDN
 http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/5097
 #EXTINF:-1 tvg-id="" tvg-name="MEX: AZTECA DEPORTES" tvg-logo="https://docdog.top/logo/countries/mexico/azteca-mx.png" group-title="LAME | MEXICO VIP",MEX: AZTECA DEPORTES
 http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/5118
+#EXTINF:-1 tvg-id="" tvg-name="MEX: ESPN EXTRA" tvg-logo="https://docdog.top/logo/countries/mexico/espnplus.png" group-title="LAME | MEXICO VIP",MEX: ESPN EXTRA
+http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/5156
+#EXTINF:-1 tvg-id="" tvg-name="MEX: ESPN" tvg-logo="https://docdog.top/logo/countries/mexico/espn.png" group-title="LAME | MEXICO VIP",MEX: ESPN
+http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/5155
 #EXTINF:-1 tvg-id="" tvg-name="MEX: ESPN 2" tvg-logo="https://docdog.top/logo/countries/mexico/espn2.png" group-title="LAME | MEXICO VIP",MEX: ESPN 2
 http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/5153
 #EXTINF:-1 tvg-id="" tvg-name="MEX: ESPN 3" tvg-logo="https://docdog.top/logo/countries/mexico/espn3.png" group-title="LAME | MEXICO VIP",MEX: ESPN 3
 http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/5154
-#EXTINF:-1 tvg-id="" tvg-name="MEX: ESPN" tvg-logo="https://docdog.top/logo/countries/mexico/espn.png" group-title="LAME | MEXICO VIP",MEX: ESPN
-http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/5155
-#EXTINF:-1 tvg-id="" tvg-name="MEX: ESPN EXTRA" tvg-logo="https://docdog.top/logo/countries/mexico/espnplus.png" group-title="LAME | MEXICO VIP",MEX: ESPN EXTRA
-http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/5156
 #EXTINF:-1 tvg-id="" tvg-name="MEX: FOX NEWS" tvg-logo="https://docdog.top/logo/countries/mexico/foxnews.png" group-title="LAME | MEXICO VIP",MEX: FOX NEWS
 http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/5162
 #EXTINF:-1 tvg-id="" tvg-name="MEX: FOX SPORTS 1" tvg-logo="https://docdog.top/logo/countries/mexico/fox-sports-premium-mx.png" group-title="LAME | MEXICO VIP",MEX: FOX SPORTS 1
@@ -1481,6 +1489,14 @@ http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/156588
 http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/156593
 #EXTINF:-1 tvg-id="" tvg-name="USA: STADIUM" tvg-logo="" group-title="USA VIP",USA: STADIUM
 http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/156594
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN" tvg-logo="" group-title="USA VIP",USA: ESPN
+http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/155107
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN 2" tvg-logo="" group-title="USA VIP",USA: ESPN 2
+http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/155108
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN NEWS" tvg-logo="" group-title="USA VIP",USA: ESPN NEWS
+http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/155109
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN U" tvg-logo="" group-title="USA VIP",USA: ESPN U
+http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/155110
 #EXTINF:-1 tvg-id="" tvg-name="USA: STADIUM 2" tvg-logo="" group-title="USA VIP",USA: STADIUM 2
 http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/156595
 #EXTINF:-1 tvg-id="" tvg-name="USA: STADIUM 3" tvg-logo="" group-title="USA VIP",USA: STADIUM 3
@@ -1489,6 +1505,12 @@ http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/156596
 http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/156726
 #EXTINF:-1 tvg-id="" tvg-name="USA: TRUTV" tvg-logo="" group-title="USA VIP",USA: TRUTV
 http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/156727
+#EXTINF:-1 tvg-id="" tvg-name="USA: TENNIS CHANNEL" tvg-logo="" group-title="USA VIP",USA: TENNIS CHANNEL
+http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/156662
+#EXTINF:-1 tvg-id="" tvg-name="USA: TENNIS CHANNEL" tvg-logo="" group-title="USA VIP",USA: TENNIS CHANNEL
+http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/156662
+#EXTINF:-1 tvg-id="" tvg-name="USA: TUDN" tvg-logo="" group-title="USA VIP",USA: TUDN
+http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/156728
 #EXTINF:-1 tvg-id="" tvg-name="USA: TUDN" tvg-logo="" group-title="USA VIP",USA: TUDN
 http://viprpykphme.top:8080/VIP01491703168785003/91703168785015/156728
 #EXTINF:-1 tvg-id="" tvg-name="USA: TV LAND" tvg-logo="" group-title="USA VIP",USA: TV LAND
